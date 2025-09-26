@@ -1,6 +1,6 @@
 ## Clare Eayrs
 
-Hi! I'm Clare, a research scientist interested in the Southern Ocean and polar climate. I'm especially interested in ice at the coastal fringes and how this impacts changes to the grounding zone, the region where land ice starts to float and interact with the ocean.
+Hi! I'm Clare, a research scientist studying in the Southern Ocean and polar climate. I'm especially interested in ice at the coastal fringes and how this impacts changes to the grounding zone, the region where land ice starts to float and interact with the ocean.
 
 
 <!--
