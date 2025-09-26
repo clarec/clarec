@@ -1,4 +1,7 @@
-## Hi there 👋
+## Clare Eayrs
+
+Hi! I'm Clare, a research scientist interested in the Southern Ocean and polar climate. I'm especially interested in ice at the coastal fringes and how this impacts changes to the grounding zone, the region where land ice starts to float and interact with the ocean.
+
 
 <!--
 **clarec/clarec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
